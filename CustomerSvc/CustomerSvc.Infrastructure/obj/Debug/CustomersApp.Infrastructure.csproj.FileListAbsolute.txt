@@ -1,0 +1,13 @@
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Infrastructure\bin\Debug\CustomersApp.Infrastructure.dll
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Infrastructure\bin\Debug\CustomersApp.Infrastructure.pdb
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Infrastructure\obj\Debug\CustomersApp.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Infrastructure\obj\Debug\CustomersApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Infrastructure\obj\Debug\CustomersApp.Infrastructure.dll
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Infrastructure\obj\Debug\CustomersApp.Infrastructure.pdb
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Infrastructure\bin\Debug\CustomersApp.Infrastructure.dll.config
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Infrastructure\bin\Debug\CustomersApp.Core.dll
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Infrastructure\bin\Debug\CustomersApp.Core.pdb
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml

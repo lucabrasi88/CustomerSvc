@@ -1,0 +1,6 @@
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\CustomerSvc.Core\bin\Debug\CustomerSvc.Core.dll
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\CustomerSvc.Core\bin\Debug\CustomerSvc.Core.pdb
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\CustomerSvc.Core\obj\Debug\CustomerSvc.Core.csproj.CoreCompileInputs.cache
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\CustomerSvc.Core\obj\Debug\CustomerSvc.Core.dll
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\CustomerSvc.Core\obj\Debug\CustomerSvc.Core.pdb
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\CustomerSvc.Core\obj\Debug\CustomerSvc.Core.csprojResolveAssemblyReference.cache

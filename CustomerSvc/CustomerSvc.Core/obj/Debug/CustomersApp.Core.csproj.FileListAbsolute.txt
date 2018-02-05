@@ -1,0 +1,6 @@
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Core\obj\Debug\CustomersApp.Core.csprojResolveAssemblyReference.cache
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Core\obj\Debug\CustomersApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Core\bin\Debug\CustomersApp.Core.dll
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Core\bin\Debug\CustomersApp.Core.pdb
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Core\obj\Debug\CustomersApp.Core.dll
+C:\Users\Luk\source\repos\CustomersApp\CustomersApp.Core\obj\Debug\CustomersApp.Core.pdb

@@ -1,0 +1,6 @@
+C:\Users\Luk\source\repos\CustomerSvc\Client\bin\Debug\Client.exe.config
+C:\Users\Luk\source\repos\CustomerSvc\Client\bin\Debug\Client.exe
+C:\Users\Luk\source\repos\CustomerSvc\Client\bin\Debug\Client.pdb
+C:\Users\Luk\source\repos\CustomerSvc\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Luk\source\repos\CustomerSvc\Client\obj\Debug\Client.exe
+C:\Users\Luk\source\repos\CustomerSvc\Client\obj\Debug\Client.pdb

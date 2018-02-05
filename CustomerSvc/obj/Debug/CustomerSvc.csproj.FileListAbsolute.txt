@@ -1,0 +1,13 @@
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\bin\CustomerSvc.dll.config
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\bin\CustomerSvc.dll
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\bin\CustomerSvc.pdb
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\bin\CustomerSvc.Core.dll
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\bin\CustomerSvc.Infrastructure.dll
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\bin\EntityFramework.dll
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\bin\CustomerSvc.Core.pdb
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\bin\CustomerSvc.Infrastructure.pdb
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\bin\CustomerSvc.Infrastructure.dll.config
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\obj\Debug\CustomerSvc.csprojResolveAssemblyReference.cache
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\obj\Debug\CustomerSvc.csproj.CoreCompileInputs.cache
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\obj\Debug\CustomerSvc.dll
+C:\Users\Luk\source\repos\CustomerSvc\CustomerSvc\obj\Debug\CustomerSvc.pdb
